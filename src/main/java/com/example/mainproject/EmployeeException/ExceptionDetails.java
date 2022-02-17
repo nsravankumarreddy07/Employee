@@ -9,6 +9,8 @@ import java.util.Date;
 @Setter
 @AllArgsConstructor
 public class ExceptionDetails {
+   // Bonus2 - Add More Features
+
 
     public Date date;
     public String message;

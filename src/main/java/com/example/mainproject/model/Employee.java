@@ -15,6 +15,7 @@ import java.util.List;
 @Component
  //@Table(name="EMPLOYEE")
 public class Employee {
+   //1. Add New Employee to System (Emp ID, Name, Salary, Department
     @Id
     public int id;
     public String name;
